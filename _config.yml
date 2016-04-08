@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#E7D8BE'
+    - '#A36653'
+    - '#654131'
+    - '#887F77'
+    - '#B3B5C6'
+  rhythmicContrast: 1
+typography_spectrum: 0.2007169
+name: Nielsgomperts
